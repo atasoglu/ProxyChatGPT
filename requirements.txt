@@ -1,0 +1,4 @@
+beautifulsoup4>=4.11.2
+Markdown>=3.4.3
+spacy>=3.4.4
+Whoosh>=2.7.4
